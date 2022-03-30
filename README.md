@@ -1,4 +1,4 @@
-# 声明
+# Notice！！！
 > * 本仓库克隆自JDHelloWorld 
 
 # jd_scripts
