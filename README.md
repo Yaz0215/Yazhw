@@ -1,3 +1,6 @@
+# 声明
+> * 本仓库克隆自JDHelloWorld 
+
 # jd_scripts
 
 > * 无内置shareCodes
